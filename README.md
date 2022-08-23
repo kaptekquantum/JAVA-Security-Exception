@@ -10,9 +10,6 @@ Yoksa zaten boş olacaktır.
 
 * Site Ekleme : Alttaki kutucuğa eklemek istediğiniz siteleri tam adres olarak alt alta yazın ardından "KAYDET" butonuna Tıklayın.
 Hepsi bukadar.
-Ör: 
-http://google.com.tr
-http://facebook.com
 
 **************************************************************************************************************
 
