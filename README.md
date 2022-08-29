@@ -8,7 +8,7 @@ Javanın güvenlik ayarlarına takılan sitelerinizi tek tek eklemek yerine topl
 Kullanımı oldukça basit ilk olarak "OKU" butonuna tıklayın ve kayıtlı siteleriniz varsa okusun.
 Yoksa zaten boş olacaktır.
 
-* Site Ekleme : Alttaki kutucuğa eklemek istediğiniz siteleri tam adres olarak alt alta yazın ardından "KAYDET" butonuna Tıklayın.
+* Site Ekleme : Sağdaki kutucuğa eklemek istediğiniz siteleri tam adres olarak alt alta yazın ardından "KAYDET" butonuna Tıklayın.
 Hepsi bukadar.
 
 **************************************************************************************************************
