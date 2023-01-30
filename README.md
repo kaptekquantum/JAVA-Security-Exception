@@ -1,7 +1,7 @@
 JAVA Security Exception
 Javanın güvenlik ayarlarına takılan sitelerinizi tek tek eklemek yerine toplu olarak ekleyip düzenleyip , silebilirsiniz.
 
-Kod veya programın full sürümü için iletişime geçebilirsiniz.
+Kod için iletişime geçebilirsiniz.
 
 Kullanımı : Kullanımı oldukça basit ilk olarak "OKU" butonuna tıklayın ve kayıtlı siteleriniz varsa okusun. Yoksa zaten boş olacaktır.
 
