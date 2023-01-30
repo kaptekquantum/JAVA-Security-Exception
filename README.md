@@ -15,3 +15,4 @@ You can contact us for a free license.
 Use of : It is very simple to use, first click on the "READ" button and if you have registered sites, let them read it. Otherwise it will already be empty.
 
 Adding a Site: Type the sites you want to add in the box on the right as the full address, then click the "SAVE" button. That is all.
+![java](https://user-images.githubusercontent.com/61078338/215570014-7ecac63a-ea6f-497a-91c3-e4eed7c01f63.png)
