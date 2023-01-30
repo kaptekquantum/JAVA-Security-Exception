@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <oku>Read</oku>
+    <yaz>Save</yaz>
+    <hakkindaBt>info</hakkindaBt>
+	 
+	<gbox1>Current Exception Site List</gbox1>
+	<gbox2>Sites You Want to Add</gbox2>
+   
+    <Ayarlar>SETTINGS</Ayarlar>
+	<DilDeğiştir>Change language</DilDeğiştir>
+	<Türkçe>Turkish</Türkçe>
+	<İngilizce>English</İngilizce>
+
+    <baslik>JAVA Security Exception Bulk Add Site</baslik>
+
+</language>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <oku>Oku</oku>
+    <yaz>Kaydet</yaz>
+    <hakkindaBt>Hakkımda</hakkindaBt>
+	
+	<gbox1>Mevcut Exception Site Listesi</gbox1>
+	<gbox2>Eklemek İstediğiniz Siteler</gbox2>
+	
+	<Ayarlar>AYARLAR</Ayarlar>
+	<DilDeğiştir>Dil Değiştir</DilDeğiştir>
+	<Türkçe>Türkçe</Türkçe>
+	<İngilizce>İngilizce</İngilizce>
+	
+	<baslik>JAVA Security Exception Toplu Site Ekleme</baslik>
+	 
+</language>
